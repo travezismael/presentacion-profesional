@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    background: #f8f5ef;
+    color: #2d352f;
+    font-family: 'Times New Roman', sans-serif;
+    line-height: 1.5;
+}
+
+.contenedor {
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.seccion {
+    padding: 30px 0;
+}
+
+.tabla-seccion,
+.datos {
+    width: 100%;
+}
+
+.columna-titulo {
+    width: 30%;
+    vertical-align: top;
+}
+
+.etiqueta,
+.anio {
+    color: #666;
+    font-family: Arial, sans-serif;
+}
+
+.item,
+.linea {
+    padding: 12px 0;
+    border-top: 1px solid #ccc;
+}
+
+.foto {
+    width: 250px;
+    max-width: 100%;
+}
+
+#sobre-mi {
+    background: #efe9df;
+}
+
+.contacto {
+    background: #2d352f;
+    color: #faf8f4;
+    padding: 45px 0;
+}
+
+.contacto .etiqueta {
+    color: #b9a398;
+}
+
+.Nombre {
+    font-size: 70px;
+    height: 25px;
+}
+
+.marca {
+    font-family: Arial, sans-serif;
+}
